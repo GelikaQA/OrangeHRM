@@ -17,5 +17,5 @@ Feature: practice
     Then checkbox is checked for employee "<employee ID>"
 
     Examples:
-      | employee ID |  |
-      | 635919      |  |
+      | employee ID | 
+      | 635919      | 
